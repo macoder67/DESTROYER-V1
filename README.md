@@ -1,4 +1,4 @@
-# 🤖 Knight Bot
+# 🤖 DESTROYER-V1
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -118,7 +118,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/macoder67/DESTROYER-V1.git
-    cd Knightbot-MD
+    cd DESTROYER-V1 
     ```
 
 2. **Install the dependencies:**
